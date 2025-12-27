@@ -7,25 +7,25 @@ permalink: /research/
 
 # Research
 
-## Preprints 
+## Preprints
 
-{% assign pubs = site.data.preprints | sort: "year" | reverse %}
+{% assign pubs = site.data.preprints | sort: "Year" | reverse %}
 {% for p in pubs %}
-- **{{ p.title }}** ({{ p.year }})  
-  {{ p.authors | replace: "Adam Braun", "**Adam Braun**" | replace: ";", ", " }}  
-  *{{ p.venue }}*  
-  {% if p.link and p.link != "" %}[link]({{ p.link }}){% endif %}
+- **{{ p.Title }}** ({{ p.Year }})  
+  {{ p.Authors | replace: "Braun, Adam", "**Braun, Adam**" | replace: "; ", ", " | replace: ";", "" }}  
+  *{{ p.Publication }}*{% if p.Publisher and p.Publisher != "" %} — {{ p.Publisher }}{% endif %}
 {% endfor %}
+
 
 ## Articles published in a peer-reviewed journal
 
-{% assign pubs = site.data.citations | sort: "year" | reverse %}
+{% assign pubs = site.data.citations | sort: "Year" | reverse %}
 {% for p in pubs %}
-- **{{ p.title }}** ({{ p.year }})  
-  {{ p.authors | replace: "Adam Braun", "**Adam Braun**" | replace: ";", ", " }}  
-  *{{ p.venue }}*  
-  {% if p.link and p.link != "" %}[link]({{ p.link }}){% endif %}
+- **{{ p.Title }}** ({{ p.Year }})  
+  {{ p.Authors | replace: "Braun, Adam", "**Braun, Adam**" | replace: "; ", ", " | replace: ";", "" }}  
+  *{{ p.Publication }}*{% if p.Volume and p.Volume != "" %}, {{ p.Volume }}{% endif %}{% if p.Number and p.Number != "" %}({{ p.Number }}){% endif %}{% if p.Pages and p.Pages != "" %}, {{ p.Pages }}{% endif %}{% if p.Publisher and p.Publisher != "" %} — {{ p.Publisher }}{% endif %}
 {% endfor %}
+
 
 
 
