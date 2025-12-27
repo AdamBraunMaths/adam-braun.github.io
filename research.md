@@ -9,13 +9,14 @@ permalink: /research/
 
 ## Preprints
 
+## Preprints
+
 {% assign pubs = site.data.preprints | sort: "Year" | reverse %}
 {% for p in pubs %}
 - **{{ p.Title }}** ({{ p.Year }})  
   {{ p.Authors | replace: "Braun, Adam", "**Braun, Adam**" | replace: "; ", ", " | replace: ";", "" }}  
-  *{{ p.Publication }}*{% if p.Publisher and p.Publisher != "" %} — {{ p.Publisher }}{% endif %}
+  {{ p.Status }}{% if p.Link and p.Link != "" %} — [HAL]({{ p.Link }}){% endif %}
 {% endfor %}
-
 
 ## Articles published in a peer-reviewed journal
 
