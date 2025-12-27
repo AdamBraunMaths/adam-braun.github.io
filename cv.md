@@ -55,11 +55,11 @@ Collège Marie Curie, Paris
 ## Skills
 
 - **Languages:** French (Native), English (Fluent)
-- **Programming & Typesetting:** Python (NumPy, SciPy, Matplotlib — basic proficiency)
+- **Programming & Typesetting:** Python (NumPy, SciPy, Matplotlib — basic proficiency), LaTex
 
 ---
 
-## Interests (non mathematical)
+## Other Interests
 
 - Argentine Tango  
-- Reading
+- Historic novels and historical crime novels
