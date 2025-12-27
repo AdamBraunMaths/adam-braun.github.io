@@ -9,8 +9,6 @@ permalink: /research/
 
 ## Preprints
 
-## Preprints
-
 {% assign pubs = site.data.preprints | sort: "Year" | reverse %}
 {% for p in pubs %}
 - **{{ p.Title }}** ({{ p.Year }})  
