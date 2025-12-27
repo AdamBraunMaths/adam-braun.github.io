@@ -12,7 +12,7 @@ permalink: /research/
 {% assign pubs = site.data.preprints | sort: "year" | reverse %}
 {% for p in pubs %}
 - **{{ p.title }}** ({{ p.year }})  
-  {{ p.authors | replace: ";", ", " }}  
+  {{ p.authors | replace: "Adam Braun", "**Adam Braun**" | replace: ";", ", " }}  
   *{{ p.venue }}*  
   {% if p.link and p.link != "" %}[link]({{ p.link }}){% endif %}
 {% endfor %}
@@ -22,7 +22,7 @@ permalink: /research/
 {% assign pubs = site.data.citations | sort: "year" | reverse %}
 {% for p in pubs %}
 - **{{ p.title }}** ({{ p.year }})  
-  {{ p.authors | replace: ";", ", " }}  
+  {{ p.authors | replace: "Adam Braun", "**Adam Braun**" | replace: ";", ", " }}  
   *{{ p.venue }}*  
   {% if p.link and p.link != "" %}[link]({{ p.link }}){% endif %}
 {% endfor %}
