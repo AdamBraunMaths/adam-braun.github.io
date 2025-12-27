@@ -1,3 +1,9 @@
+---
+title: CV
+permalink: /cv/
+---
+
+
 # Adam Braun
 
 **PhD Student in Mathematics**
