@@ -1,0 +1,64 @@
+# Adam Braun
+
+**PhD Student in Mathematics**
+
+📞 +33 6 50 66 18 82  
+✉️ adam.braun@centralesupelec.fr  
+📍 33 rue Marx Dormoy, 75018 Paris  
+🎂 Born on January 8, 2002
+
+---
+
+## Education
+
+**PhD in Mathematics — Practical Control of Networks of Hyperbolic Systems**  
+*2024 – Present*  
+Laboratoire des Signaux et Systèmes (L2S), CentraleSupélec, Gif-sur-Yvette  
+Supervisors: Jean Auriol, Lucas Brivadis
+
+**Master's Degree (M2) in Mathematical Modelling — Honors: Good**  
+*2023 – 2024*  
+Sorbonne University, Paris
+
+**First-Year Master's Degree (M1) in Mathematics and Applications**  
+*2022 – 2023*  
+Grade: 15.107 / 20, Rank: 29 / 243  
+Sorbonne University, Paris
+
+**Intensive Bachelor's Degree in Mathematics**  
+*2019 – 2022*  
+Grade: 15.561 / 20, Rank: 10 / 191  
+Sorbonne University, Paris
+
+**French Scientific Baccalaureate — Highest Honors**  
+*2019*  
+Lycée Condorcet, Paris
+
+**First Prize (Audiovisual Category), National Competition of the Resistance and Deportation**  
+*2016*  
+Collège Marie Curie, Paris
+
+---
+
+## Professional Experience
+
+- **Teaching Assistant — Mathematical Modelling**, CentraleSupélec — *2025*
+- **Teaching Assistant — Optimization**, CentraleSupélec — *2025*
+- **Teaching Assistant — Probability Theory**, Mines Paris — *2024*
+- **Research Internship — Stabilization of an Integral Delay Equation**, L2S, CentraleSupélec — *2024*
+- **Mathematics and Energy Master Class**, CIRM, Marseille — *2022*
+- **Mathematics Tutor — University & High School Students** — *2021 – 2023*
+
+---
+
+## Skills
+
+- **Languages:** French (Native), English (Fluent)
+- **Programming & Typesetting:** Python (NumPy, SciPy, Matplotlib — basic proficiency), LaTeX
+
+---
+
+## Interests
+
+- Argentine Tango  
+- Reading
