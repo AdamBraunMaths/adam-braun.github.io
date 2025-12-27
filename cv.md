@@ -35,7 +35,7 @@ Sorbonne University, Paris
 *2019*  
 Lycée Condorcet, Paris
 
-**First Prize (Audiovisual Category), National Competition of the Resistance and Deportation**  
+**First Prize (Audiovisual Category), Concours national de la résistance et de la déportation**  
 *2016*  
 Collège Marie Curie, Paris
 
