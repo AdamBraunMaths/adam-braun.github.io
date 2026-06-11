@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-[My Google Scholar](https://scholar.google.com/citations?hl=fr&view_op=list_works&authuser=1&gmla=AElLoL2f491W0PRRZH3hHOk8_kg_uk0KUjNrjEs3LCKCkIRz9x0a1AfY-9n0N-oDRzLx2CzwRLA9MEuDkc_T-cwrLb8&user=JfxzleYAAAAJ)
+[My Google Scholar](https://scholar.google.com/citations?hl=fr&view_op=list_works&authuser=1&gmla=AElLoL2f491W0PRRZH3hHOk8_kg_uk0KUjNrjEs3LCKCkIRz9x0a1AfY-9n0N-oDRzLx2CzwRLA9MEuDkc_T-cwrLb8&user=JfxzleYAAAAJ) and [My Semantic Scholar](https://www.semanticscholar.org/author/Adam-Braun/2345699361)
 
 ## Research interests
 - Partial Differential Equations
